@@ -15,6 +15,7 @@ This repository introduces a Python Jupyter Notebook code cells for geospatial a
 
 - [Introduction](#introduction)
 - [Code Overview](#code-overview)
+- [Data](#data)
 - [License](#license)
 
 
@@ -48,3 +49,9 @@ This repository introduces a Python Jupyter Notebook code cells for geospatial a
    - Computing AHP weights
    - Performing Weighted Overlay & creating a composite suitability map by summing each criterion multiplied by its weight.
    - Plotting the Composite Suitability Map
+
+
+---
+
+## Data
+- Data can be downloaded from this gdrive [link](https://drive.google.com/drive/folders/1O0YRAsxTTXQj8nR89inrfkpVmIjmRCoa?usp=sharing)
